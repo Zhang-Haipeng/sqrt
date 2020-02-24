@@ -4,7 +4,7 @@ A GitHub repository for us to use to practice branching and merging. Developed f
 
 ## Usage:
 
-For example, to calculate the square root of 25:
+For example, to calculate the square root of 25:adfasdfadfasdfad
 ```
 python sqrt.py --n=25
 ```
